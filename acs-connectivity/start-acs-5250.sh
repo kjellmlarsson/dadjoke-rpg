@@ -50,5 +50,3 @@ log_info "5250 emulator launched (PID: $!)"
 log_info "Login credentials will be requested in the ACS window"
 log_info "=========================================="
 log_info ""
-
-# Made with Bob

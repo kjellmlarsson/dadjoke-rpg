@@ -31,4 +31,4 @@ The script fetches output from the system operator message queue and displays it
 
 ### Connectivity
 
-For scp and ssh, use the private key in pem_user_privatekey_download.pem and the ip address 10.0.0.1.
+For scp and ssh, use the private key in private_key.pem and the ip address 158.176.147.237

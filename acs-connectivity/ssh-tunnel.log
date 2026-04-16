@@ -1,0 +1,64 @@
+[0;32m[INFO][0m Starting SSH tunnel setup at Thu Apr 16 12:55:56 CEST 2026
+[0;32m[INFO][0m ==========================================
+[0;32m[INFO][0m SSH Tunnel Configuration
+[0;32m[INFO][0m ==========================================
+[0;32m[INFO][0m Remote Host: cecuser@158.176.147.237
+[0;32m[INFO][0m SSH Key: ../private_key.pem
+[0;32m[INFO][0m 
+[0;32m[INFO][0m Port Forwards:
+[0;32m[INFO][0m   50000:localhost:23
+[0;32m[INFO][0m   2001:localhost:2001
+[0;32m[INFO][0m   2002:localhost:2002
+[0;32m[INFO][0m   449:localhost:449
+[0;32m[INFO][0m   8470:localhost:8470
+[0;32m[INFO][0m   8471:localhost:8471
+[0;32m[INFO][0m   8472:localhost:8472
+[0;32m[INFO][0m   8473:localhost:8473
+[0;32m[INFO][0m   8474:localhost:8474
+[0;32m[INFO][0m   8475:localhost:8475
+[0;32m[INFO][0m   8476:localhost:8476
+[0;32m[INFO][0m ==========================================
+[0;32m[INFO][0m 
+[0;32m[INFO][0m Selected: Interactive terminal mode
+[0;32m[INFO][0m Establishing SSH connection...
+[0;32m[INFO][0m 
+[0;32m[INFO][0m Opening interactive terminal with port forwarding...
+[0;32m[INFO][0m Port forwards will remain active during your session
+[0;32m[INFO][0m Type 'exit' or press Ctrl+D to close connection and tunnel
+[0;32m[INFO][0m 
+[0;32m[INFO][0m Shutting down SSH tunnel...
+[0;32m[INFO][0m Starting SSH tunnel setup at Thu Apr 16 12:56:31 CEST 2026
+[0;32m[INFO][0m ==========================================
+[0;32m[INFO][0m SSH Tunnel Configuration
+[0;32m[INFO][0m ==========================================
+[0;32m[INFO][0m Remote Host: cecuser@158.176.147.237
+[0;32m[INFO][0m SSH Key: ../private_key.pem
+[0;32m[INFO][0m 
+[0;32m[INFO][0m Port Forwards:
+[0;32m[INFO][0m   50000:localhost:23
+[0;32m[INFO][0m   2001:localhost:2001
+[0;32m[INFO][0m   2002:localhost:2002
+[0;32m[INFO][0m   449:localhost:449
+[0;32m[INFO][0m   8470:localhost:8470
+[0;32m[INFO][0m   8471:localhost:8471
+[0;32m[INFO][0m   8472:localhost:8472
+[0;32m[INFO][0m   8473:localhost:8473
+[0;32m[INFO][0m   8474:localhost:8474
+[0;32m[INFO][0m   8475:localhost:8475
+[0;32m[INFO][0m   8476:localhost:8476
+[0;32m[INFO][0m ==========================================
+[0;32m[INFO][0m 
+[0;32m[INFO][0m Selected: Tunnel only mode
+[0;32m[INFO][0m Establishing SSH connection...
+[0;32m[INFO][0m 
+[0;32m[INFO][0m Starting SSH tunnel in background...
+[0;32m[INFO][0m SSH tunnel established (PID: 66678)
+[0;32m[INFO][0m 
+[0;32m[INFO][0m To launch ACS 5250 emulator, run:
+[0;32m[INFO][0m   ./start-acs-5250.sh
+[0;32m[INFO][0m 
+[0;32m[INFO][0m SSH tunnel is running and ready
+[0;32m[INFO][0m Press Ctrl+C to disconnect and close the tunnel
+[0;32m[INFO][0m 
+[0;32m[INFO][0m Shutting down SSH tunnel...
+[0;32m[INFO][0m Shutting down SSH tunnel...
