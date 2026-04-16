@@ -1,3 +1,4 @@
 private_key.pem
 .env
 *ssh-tunnel.log
+*acs-launch.log
