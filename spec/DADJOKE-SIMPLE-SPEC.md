@@ -24,7 +24,7 @@ Development happens locally on a developer laptop. Compilation is done on a remo
 
 Create a compile-dadjoke.sh (i-series uses bourne shell) script that runs locally on the developer laptop and uses scp to copy the local program source file to the i environment and then uses ssh to create library, source file and member (if necessary). 
 
-After this, the script compiles the module with source level debugging turned on and sets INCDIR to include resolve the LIBHTTP dependencies. binds and includes the necessary libraries and creates the program, binding service programs as necessary. 
+After this, the script compiles the module with source level debugging turned on and sets INCDIR to include LIBHTTP dependencies. Then create the program, binding service programs as necessary.
 
 The script needs to handle that either of library, source file and member, module already exists.
 
