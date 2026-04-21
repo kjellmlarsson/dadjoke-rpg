@@ -38,6 +38,8 @@ readonly PORT_FORWARDS=(
     "8474:localhost:8474"   # ACS Service 5
     "8475:localhost:8475"   # ACS Service 6
     "8476:localhost:8476"   # ACS Service 7
+    "8076:localhost:8076"   # ACS Service 7
+
 )
 
 # SSH connection options (base options, -N flag added conditionally)

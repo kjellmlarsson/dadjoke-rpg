@@ -13,6 +13,9 @@ PROGRAM="DADJOKE"
 echo "=== Running DADJOKE program ==="
 echo ""
 
+# Clear message queue first
+ssh -i "$KEY" "${USER}@${SERVER}" "system 'CLRMSGQ MSGQ(QSYS/QSYSOPR)'" >/dev/null 2>&1
+
 # Create temporary SQL script locally
 TEMP_SQL="/tmp/run_dadjoke_$$.sql"
 cat > "$TEMP_SQL" << 'EOSQL'
