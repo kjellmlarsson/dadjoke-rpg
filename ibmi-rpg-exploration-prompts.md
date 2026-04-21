@@ -1,6 +1,6 @@
 # IBM i / RPG Codebase Exploration Prompts
 
-A structured prompt library for exploring an IBM i / RPG codebase from both a **functional** (business domain) and **technical** (architecture and implementation) perspective. Intended for use with AI-assisted coding tools (Roo Code, Claude Code, etc.) or as a guide for manual code review.
+Prompt library for exploring an IBM i / RPG codebase from both a **functional** (business domain) and **technical** (architecture and implementation) perspective.
 
 ---
 
